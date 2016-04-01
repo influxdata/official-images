@@ -1,4 +1,6 @@
 maintainer: Shubhra Kar <shubhra@influxdb.com> (@ShubhraKar)
 
-0.10: git://github.com/influxdata/chronograf-docker@2bd0087727b72b3b7d7239315ca8d6be755f893f 0.10
-latest: git://github.com/influxdata/chronograf-docker@2bd0087727b72b3b7d7239315ca8d6be755f893f 0.10
+0.10: git://github.com/influxdata/chronograf-docker@2179a9f3226b7ea340ed9de8d85c4e28b3c63d9d 0.10
+
+0.11: git://github.com/influxdata/chronograf-docker@2179a9f3226b7ea340ed9de8d85c4e28b3c63d9d 0.11
+latest: git://github.com/influxdata/chronograf-docker@2179a9f3226b7ea340ed9de8d85c4e28b3c63d9d 0.11
