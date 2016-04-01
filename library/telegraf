@@ -1,6 +1,7 @@
 # maintainer: Shubhra Kar <shubhra@influxdb.com> (@ShubhraKar)
 
 0.10: git://github.com/influxdata/telegraf-docker@796caeae8a39aedf84b25f2f8ead2198fd42dcb9 0.10
+0.10.4: git://github.com/influxdata/telegraf-docker@796caeae8a39aedf84b25f2f8ead2198fd42dcb9 0.10
 
 0.11: git://github.com/influxdata/telegraf-docker@796caeae8a39aedf84b25f2f8ead2198fd42dcb9 0.11
 0.11.1: git://github.com/influxdata/telegraf-docker@796caeae8a39aedf84b25f2f8ead2198fd42dcb9 0.11
