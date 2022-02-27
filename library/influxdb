@@ -1,6 +1,6 @@
 Maintainers: Brandon Pfeifer <bpfeifer@influxdata.com> (@bnpfeife)
 GitRepo: git://github.com/influxdata/influxdata-docker
-GitCommit: 059243478e6f2085a977c8e468d60b6350a1b5c6
+GitCommit: 5c6e06dc8acdf40135d0f4f1644876c0584fc5eb
 
 Tags: 1.7, 1.7.11
 Architectures: amd64, arm32v7, arm64v8
